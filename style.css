@@ -1,0 +1,11 @@
+body {
+  background-color: black; /* Establece el fondo de la página en negro */
+}
+
+img {
+  width: 600px;
+  height: 600px;
+  display: block;
+  margin: 0 auto;
+  margin-top: 50px;
+}
